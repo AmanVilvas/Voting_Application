@@ -14,7 +14,7 @@ JSON Web Tokens (JWT) for authentication
 Installation
 Clone the repository:
 
-git clone https://github.com/Prince-1501/voting_app.git
+git clone [https://github.com/Prince-1501/voting_app.git](https://github.com/AmanVilvas/Voting_Application)
 
 API Endpoints
 Authentication
